@@ -1,5 +1,8 @@
 # how to use GreenDao and LiteOrm
+##the demo use both greenDao and liteorm
 
-GREEN DAO:https://github.com/greenrobot/greenDAO
+###Pool english ...so,you can read the official documents
+
+[GREEN DAO](https://github.com/greenrobot/greenDAO)
     
-LITE ORM :https://github.com/litesuits/android-lite-orm
+[LITE ORM](https://github.com/litesuits/android-lite-orm)
