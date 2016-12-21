@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">liteOrm</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="rule">Rule</string>
+    <string name="other">Other</string>
+</resources>
